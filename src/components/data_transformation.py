@@ -25,7 +25,7 @@ class DataTransformation:
     
     def get_data_transformer_object(self):
         '''
-        The function is responsible for data trnasformation
+        The function is responsible for data transformation
         
         '''
         try:
